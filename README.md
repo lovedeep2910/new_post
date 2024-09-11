@@ -1,6 +1,6 @@
 # Installation
 
-1. Install XAMPP or WAMPP.
+1. Install XAMPP or WAMPP
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
@@ -14,3 +14,8 @@
 4. extract files in C:\\xampp\htdocs\.
 
 5. open link localhost/phpmyadmin
+
+6. Create table
+    A. users -> username, password
+    B. posts -> title, content, user_id
+7. url: http://localhost/[path]/
